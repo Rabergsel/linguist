@@ -6192,6 +6192,12 @@ SAS:
   codemirror_mode: sas
   codemirror_mime_type: text/x-sas
   language_id: 328
+SCL:
+  type: markup
+  color: "#ffef33"
+  extensions:
+  - ".scl"
+  language_id: 610
 SCSS:
   type: markup
   color: "#c6538c"
